@@ -27,4 +27,4 @@ Esta aplicacao web foi desenvolvida para visualizacao e filtragem de imagens em 
 O projeto utiliza um conjunto de dados estaticos contendo titulos e URLs de imagens, garantindo que a pesquisa funcione de forma precisa conforme os requisitos do exercicio.
 
 ---
-Desenvolvido por [Seu Nome] - 2026
+Desenvolvido por Ana Carolina - 2026
