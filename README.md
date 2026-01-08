@@ -9,6 +9,7 @@ Esta aplicacao web foi desenvolvida para visualizacao e filtragem de imagens em 
 - Bootstrap 5: Sistema de grid para responsividade e componentes de interface.
 - UIcons: Biblioteca utilizada para o icone de pesquisa.
 
+************************************************************************************************8
 - Funcionalidades Implementadas
 - Cabecalho: Titulo centralizado com estilizacao via gradiente.
 - Barra de Busca: Campo de texto para pesquisa por palavras-chave com botao de acao.
@@ -18,11 +19,13 @@ Esta aplicacao web foi desenvolvida para visualizacao e filtragem de imagens em 
 - Mensagem de Feedback: Notificacao exibida quando nenhum resultado corresponde a busca.
 - Rodape: Informacoes de copyright fixadas na base da aplicacao.
 
+************************************************************************************************8
 - Como Executar o Projeto
 - Faca o download ou clone este repositorio em sua maquina local.
 - Localize o arquivo index.html na pasta raiz.
 - Abra o arquivo em qualquer navegador web atualizado.
 
+************************************************************************************************8
 - Dados da Aplicacao
 O projeto utiliza um conjunto de dados estaticos contendo titulos e URLs de imagens, garantindo que a pesquisa funcione de forma precisa conforme os requisitos do exercicio.
 
