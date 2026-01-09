@@ -64,7 +64,6 @@
     </footer>
 
     <script>
-        // Dados simplificados
         const db = [
             { id: 1, name: "Montanhas", img: "https://picsum.photos/id/10/600/400" },
             { id: 2, name: "Cachorro", img: "https://picsum.photos/id/237/600/400" },
@@ -82,7 +81,7 @@
         const emptyMsg = document.getElementById('emptyMsg');
         const query = document.getElementById('query');
 
-        // Função que desenha as fotos
+        // Função das fotos
         const render = (list) => {
             gallery.innerHTML = '';
             
@@ -119,4 +118,5 @@
         render(db);
     </script>
 </body>
+
 </html>
